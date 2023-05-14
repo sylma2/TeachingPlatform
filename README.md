@@ -1,1 +1,1 @@
-# TeachingPlatform
+# TeachingPlatform for fun
